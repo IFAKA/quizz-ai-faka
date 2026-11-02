@@ -61,3 +61,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # quizz-ai-faka
 # quizz-ai-faka
 # quizz-ai-faka
+
+---
+
+## Support
+
+If this project is useful to you, you can support my work:
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/zfaka)
